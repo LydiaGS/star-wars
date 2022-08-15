@@ -1,0 +1,165 @@
+
+.navbar {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    flex-direction: row;
+}
+
+.navbar span {
+    text-decoration: none;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+ul {
+    display: flex;
+    width: max-content;
+    height: 80px;
+}
+
+.pack {
+    background-color:rgb(99, 20, 20);
+    color: white;
+    text-align: center;
+    height: 200px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly; 
+}
+
+.pack>p {
+    text-align: center;
+ 
+   
+}
+
+.pack>div :nth-child(1) {
+    display: flex;
+    justify-content: center;
+    height: 200px;
+}
+
+.ecolison {
+    background-color: white;
+    color: black;
+
+}
+
+.ecolison, div
+#un {
+    background-color:black;
+    color: white;
+    height: 90px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+}
+h2{
+font-size: 35px;
+text-align: center;
+}
+
+#p
+{
+ display: flex;
+ flex-direction: row;
+ justify-content: space-evenly;
+
+}
+.ecolison, #un{
+  margin-left: 800px;
+}
+#icon {
+    background-color: beige;
+    display:flex;
+    flex-direction:row;
+    justify-content: center;
+    padding: 50px 300px;
+    flex-wrap: wrap;
+    /* max-width: 1000px; */
+
+}
+#icon div{
+flex-direction: column;
+margin: 50px;
+text-align: center;
+}
+#deux{
+    margin-left: 800px;
+    background-color: rgb(36, 36, 54);
+    color: white;
+    height: 90px;
+    width: 300px;
+    display: flex;
+    justify-content: center; 
+}
+.evolution{
+padding: 50px;
+}
+
+#EV{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly; 
+    padding: 50px;
+}
+#trois{
+    margin-left: 800px;
+    background-color: rgb(36, 36, 54);
+    color: white;
+    height: 90px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+}
+.envol{
+    padding: 50px;  
+}
+#EN{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;   
+    padding: 50px;
+}
+#g{
+    align-items: center;
+    margin-right: 200px;
+    color: white;
+}
+#l{
+    flex-direction: column ;
+    margin-right: 200px;
+    color: white;
+}
+#k{
+    flex-direction: column ;
+    color: white;
+}
+footer{
+    background-color: #28282C;
+    display: flex;
+    flex-direction: column;
+    height: 250px;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+}
+#QU{
+    margin-left: 1780px;
+    color: white;
+}
+
+*{
+    font-family: 'Gantari', sans-serif;
+}
+.start{
+    flex-direction:column;
+    margin: 50px;
+}
+@import url('https://fonts.googleapis.com/css2? family=Gantari:wght@100&family=Ubuntu:wght@300&display=swap');

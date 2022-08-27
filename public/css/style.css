@@ -162,4 +162,8 @@ footer{
     flex-direction:column;
     margin: 50px;
 }
+.face{
+color: white
+background-color  : white
+}
 @import url('https://fonts.googleapis.com/css2? family=Gantari:wght@100&family=Ubuntu:wght@300&display=swap');
